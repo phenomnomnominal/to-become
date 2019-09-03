@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`toBecome(smaller) it should work for values that shrink 1`] = `1566165687504`;
+
+exports[`toBecome(smaller) it should work for values that stay the same size 1`] = `1000`;

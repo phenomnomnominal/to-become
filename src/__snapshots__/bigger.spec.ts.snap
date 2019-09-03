@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`toBecome(bigger) it should work for values that grow 1`] = `1567468712582`;
+
+exports[`toBecome(bigger) it should work for values that stay the same size 1`] = `1000`;
+
+exports[`toBecome(bigger) should not break existing snapshots 1`] = `1000`;
