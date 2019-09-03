@@ -33,7 +33,7 @@ export function toBecome<T>(
     self.snapshotState.unmatched = prevUnmatched;
     self.snapshotState._updateSnapshot = prevUpdateState;
 
-    // Only want to update the screenshot if the snapshot failed but
+    // Only want to update the snapshot if the snapshot failed but
     // the constraint is still valid:
     const snapshotPass = snapshot.pass;
     const constraintPass = constraint(snapshot.expected, snapshot.actual);
